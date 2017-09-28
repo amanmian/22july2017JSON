@@ -1,0 +1,141 @@
+[  
+   { 
+      	"Id":1,
+      	"Name":"Aman",
+      	"Email":"aman@gmail.com",
+      	"Age": 22,	
+      	"Address":{  
+        	   "AddressLine":"Shivaji town, prince road, Dehradun",
+                   "Phone":{  
+        		    "Home":"9897767656",
+        		    "Mobile":"7867765664"
+         		   }
+      		  }
+   },
+
+   {  
+      "Id":2,
+      "Name":"Shubham",
+      "Email":"shubh@gmail.com",
+      "Age": 40,
+      "Address":{  
+         	"AddressLine":"Khamla Road, Nagpur",
+         	"Phone":{  
+            		"Home":"8784567856",
+            		"Mobile":"9997775645"
+         		}
+      		}
+   },
+
+   {  
+      "Id":3,
+      "Name":"Mayank",
+      "Email":"mj@gmail.com",
+      "Age": 50,
+      "Address":{  
+         	"AddressLine":"47, Tufail garden, Kashipur",
+         	"Phone":{   
+            		"Home":"9787767876",
+            		"Mobile":"8881317866"
+         		}
+      		}
+   },
+
+ {  
+      "Id":4,
+      "Name":"Praveen",
+      "Email":"pcb@gmail.com",
+      "Age": 24,
+      "Address":{  
+         	"AddressLine":"47, Tufail garden, Lahore",
+         	"Phone":{  
+            		"Home":"8778787878",
+            		"Mobile":"9876543210"
+         		}
+      		}
+   },
+
+{  
+      "Id":5,
+      "Name":"Sandeep",
+      "Email":"kapri@gmail.com",
+      "Age": 23,
+      "Address":{  
+         	"AddressLine":"47, Tufail garden, Gwalior",
+         	"Phone":{  
+            		"Home":"8989878776",
+            		"Mobile":"8978034000"
+         		}
+      		}
+   },
+
+{  
+      "Id":6,
+      "Name":"Lata",
+      "Email":"lb@gmail.com",
+      "Age": 23,
+      "Address":{  
+         	"AddressLine":"47, Tufail garden, Haldwani",
+         	"Phone":{  
+            		"Home":"8989878776",
+            		"Mobile":"8978034000"
+         		}
+      		}
+   },
+
+{  
+      "Id":7,
+      "Name":"Medha",
+      "Email":"mjoshi@gmail.com",
+      "Age": 23,
+      "Address":{  
+         	"AddressLine":"47, Tufail garden, Barielly",
+         	"Phone":{  
+            		"Home":"7656787867",
+            		"Mobile":"9875677877"
+         		}
+      		}
+   },
+
+{  
+      "Id":8,
+      "Name":"Manisha",
+      "Email":"pmp@gmail.com",
+      "Age": 23,
+      "Address":{  
+         	"AddressLine":"47, Tufail garden, Kathgodam",
+         	"Phone":{  
+            		"Home":"5646767888",
+            		"Mobile":"9878787667"
+         		}
+      		}
+   },
+
+{  
+      "Id":9,
+      "Name":"Sanjivni",
+      "Email":"rana@gmail.com",
+      "Age": 23,
+      "Address":{  
+         	"AddressLine":"47, Tufail garden,Korea",
+         	"Phone":{  
+            		"Home":"8989989898",
+            		"Mobile":"5687788765"
+         		}
+      		}
+   },
+
+{  
+      "Id":10,
+      "Name":"Neha",
+      "Email":"neeha@gmail.com",
+      "Age": 23,
+      "Address":{  
+         	"AddressLine":"47, Tufail garden, Rawalpindi",
+         	"Phone":{  
+            		"Home":"7500565767",
+            		"Mobile":"7805650045"
+         		}
+      		}
+   }
+]
